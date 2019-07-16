@@ -55,3 +55,19 @@ $input-shadow: none;
 @import "../node_modules/bulma/sass/components/navbar.sass";
 @import "../node_modules/bulma/sass/layout/hero.sass";
 @import "../node_modules/bulma/sass/layout/section.sass";
+@import "../node_modules/bulma/sass/grid/_all.sass";
+
+html {
+  background-color: #1c1e45;
+}
+.button {
+  &.is-small {
+    padding: 2px 15px;
+  }
+  &.is-medium {
+    padding: 5px 40px;
+  }
+  &.is-large {
+    padding: 8px 48px;
+  }
+}
