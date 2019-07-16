@@ -2,7 +2,7 @@
   "name": "blk-design-system",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aashutoshpanda.github.io/BLK-Design-System/blk-design-system/build",
+  "homepage": "https://aashutoshpanda.github.io",
   "dependencies": {
     "bulma": "^0.7.5",
     "gh-pages": "^2.0.1",
