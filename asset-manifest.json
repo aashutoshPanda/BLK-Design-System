@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/BLK-Design-System/build/static/css/main.6b011778.chunk.css",
-    "main.js": "/BLK-Design-System/build/static/js/main.ab9d74b0.chunk.js",
-    "main.js.map": "/BLK-Design-System/build/static/js/main.ab9d74b0.chunk.js.map",
-    "runtime~main.js": "/BLK-Design-System/build/static/js/runtime~main.c7a4afa1.js",
-    "runtime~main.js.map": "/BLK-Design-System/build/static/js/runtime~main.c7a4afa1.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/BLK-Design-System/build/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/BLK-Design-System/build/static/js/2.65aa1cca.chunk.js.map",
-    "index.html": "/BLK-Design-System/build/index.html",
-    "precache-manifest.e6eebbad413b651f07769d555c701d93.js": "/BLK-Design-System/build/precache-manifest.e6eebbad413b651f07769d555c701d93.js",
-    "service-worker.js": "/BLK-Design-System/build/service-worker.js",
-    "static/css/main.6b011778.chunk.css.map": "/BLK-Design-System/build/static/css/main.6b011778.chunk.css.map"
+    "main.css": "/BLK-Design-System/blk-design-system/build/static/css/main.6b011778.chunk.css",
+    "main.js": "/BLK-Design-System/blk-design-system/build/static/js/main.95d9152c.chunk.js",
+    "main.js.map": "/BLK-Design-System/blk-design-system/build/static/js/main.95d9152c.chunk.js.map",
+    "runtime~main.js": "/BLK-Design-System/blk-design-system/build/static/js/runtime~main.925bc716.js",
+    "runtime~main.js.map": "/BLK-Design-System/blk-design-system/build/static/js/runtime~main.925bc716.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/BLK-Design-System/blk-design-system/build/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/BLK-Design-System/blk-design-system/build/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/BLK-Design-System/blk-design-system/build/index.html",
+    "precache-manifest.56168ea88e4c069e2a65e698769fffe1.js": "/BLK-Design-System/blk-design-system/build/precache-manifest.56168ea88e4c069e2a65e698769fffe1.js",
+    "service-worker.js": "/BLK-Design-System/blk-design-system/build/service-worker.js",
+    "static/css/main.6b011778.chunk.css.map": "/BLK-Design-System/blk-design-system/build/static/css/main.6b011778.chunk.css.map"
   }
 }
