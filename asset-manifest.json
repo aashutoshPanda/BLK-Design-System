@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6b011778.chunk.css",
-    "main.js": "/static/js/main.17d142b5.chunk.js",
-    "main.js.map": "/static/js/main.17d142b5.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/static/js/2.65aa1cca.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d6bd708855c207b98a70120fc1dfca94.js": "/precache-manifest.d6bd708855c207b98a70120fc1dfca94.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.6b011778.chunk.css.map": "/static/css/main.6b011778.chunk.css.map"
+    "main.css": "/BLK-Design-System/build/static/css/main.6b011778.chunk.css",
+    "main.js": "/BLK-Design-System/build/static/js/main.ab9d74b0.chunk.js",
+    "main.js.map": "/BLK-Design-System/build/static/js/main.ab9d74b0.chunk.js.map",
+    "runtime~main.js": "/BLK-Design-System/build/static/js/runtime~main.c7a4afa1.js",
+    "runtime~main.js.map": "/BLK-Design-System/build/static/js/runtime~main.c7a4afa1.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/BLK-Design-System/build/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/BLK-Design-System/build/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/BLK-Design-System/build/index.html",
+    "precache-manifest.e6eebbad413b651f07769d555c701d93.js": "/BLK-Design-System/build/precache-manifest.e6eebbad413b651f07769d555c701d93.js",
+    "service-worker.js": "/BLK-Design-System/build/service-worker.js",
+    "static/css/main.6b011778.chunk.css.map": "/BLK-Design-System/build/static/css/main.6b011778.chunk.css.map"
   }
 }
