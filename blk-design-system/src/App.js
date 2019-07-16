@@ -9,12 +9,7 @@ class App extends Component {
   render() {
     return (
       <div className="app">
-        <div class="columns">
-          <div class="column">First column</div>
-          <div class="column">Second column</div>
-          <div class="column">Third column</div>
-          <div class="column">Fourth column</div>
-        </div>
+        <button className="button is-primary">button</button>
       </div>
     );
   }
