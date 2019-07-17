@@ -306,15 +306,6 @@ body {
   font-weight: 400;
   line-height: 1.5; }
 
-a {
-  color: #5e72e4;
-  cursor: pointer;
-  text-decoration: none; }
-  a strong {
-    color: currentColor; }
-  a:hover {
-    color: white; }
-
 code {
   background-color: whitesmoke;
   color: #f5365c;
