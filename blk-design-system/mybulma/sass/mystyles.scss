@@ -2,7 +2,7 @@
 
 // Import a Google Font
 @import url("https://fonts.googleapis.com/css?family=Nunito:400,700");
-
+@import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
 // Set your brand colors
 // $purple: #8a4d76;
 // $pink: #fa7c91;
@@ -48,19 +48,18 @@ $input-shadow: none;
 // Import only what you need from Bulma
 @import "../node_modules/bulma/sass/utilities/_all.sass";
 @import "../node_modules/bulma/sass/base/_all.sass";
-@import "../node_modules/bulma/sass/elements/button.sass";
-@import "../node_modules/bulma/sass/elements/container.sass";
-@import "../node_modules/bulma/sass/elements/title.sass";
+@import "../node_modules/bulma/sass/elements/_all.sass";
 @import "../node_modules/bulma/sass/form/_all.sass";
-@import "../node_modules/bulma/sass/components/navbar.sass";
-@import "../node_modules/bulma/sass/layout/hero.sass";
-@import "../node_modules/bulma/sass/layout/section.sass";
+@import "../node_modules/bulma/sass/components/_all.sass";
+@import "../node_modules/bulma/sass/layout/_all.sass";
 @import "../node_modules/bulma/sass/grid/_all.sass";
 
 html {
   background-color: #1c1e45;
 }
+
 .button {
+  border-radius: 0.4285rem;
   &.is-small {
     padding: 2px 15px;
   }
@@ -69,5 +68,109 @@ html {
   }
   &.is-large {
     padding: 8px 48px;
+  }
+}
+
+a {
+  color: $link;
+  cursor: pointer;
+  text-decoration: none;
+  &.is-primary {
+    color: $primary;
+  }
+  &.is-danger {
+    color: $danger;
+  }
+  &.is-warning {
+    color: $warning;
+  }
+  &.is-success {
+    color: $success;
+  }
+  &.is-info {
+    color: $info;
+  }
+
+  strong {
+    color: currentColor;
+  }
+
+  &:hover {
+    color: white;
+  }
+}
+.input {
+  background: transparent;
+  border-color: white;
+  color: white;
+  border: solid 1px;
+  &.is-primary {
+    border-color: $primary;
+    &::placeholder {
+      color: $primary;
+    }
+  }
+  &.is-danger {
+    border-color: $danger;
+    &::placeholder {
+      color: $danger;
+    }
+  }
+  &.is-warning {
+    border-block-color: $warning;
+    &::placeholder {
+      color: $warning;
+    }
+  }
+  &.is-success {
+    border-block-color: $success;
+    &::placeholder {
+      color: $white;
+    }
+  }
+  &.is-info {
+    border-block-color: $info;
+    &::placeholder {
+      color: $info;
+    }
+  }
+}
+.notification {
+  &.is-primary {
+    border-color: $primary;
+    &::placeholder {
+      color: $primary;
+    }
+  }
+  &.is-danger {
+    border-color: $danger;
+    &::placeholder {
+      color: $danger;
+    }
+  }
+  &.is-warning {
+    border-block-color: $warning;
+    &::placeholder {
+      color: $warning;
+    }
+  }
+  &.is-success {
+    border-block-color: $success;
+    &::placeholder {
+      color: $white;
+    }
+  }
+  &.is-info {
+    border-block-color: $info;
+    &::placeholder {
+      color: $info;
+    }
+  }
+  .cross {
+    font-size: 1.2rem;
+    font-weight: 100;
+  }
+  @include until($tablet) {
+    padding: 0.9rem 0.8rem 0.4rem 0.8rem;
   }
 }
